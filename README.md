@@ -1,6 +1,6 @@
 # Chef
 
-## Task3
+### Task3:
 
 ###### 1. Setup new Vagrant VM and install chef server. 
 ###### 2. Install chef client on your local PC and configure knife to work with your chef server
