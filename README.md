@@ -1,6 +1,6 @@
 # Chef
 
-## Task2
+### Task2:
 
 ###### 1. Create new empty git repository on github or bitbucket. 
 ###### 2. Clone/init this repo o your local PC.  3 - 8 steps should be done in this cookbook. Create a new branch in this repo. All work should be done in this branch. Do not forget to commit and push your changes.   
