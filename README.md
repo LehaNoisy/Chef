@@ -3,7 +3,7 @@
 ## Task3
 
 ###### 1. Setup new Vagrant VM and install chef server. 
-###### 2. Install chef client on your local PC and configure knife to work with your chef server <br />
+###### 2. Install chef client on your local PC and configure knife to work with your chef server
 ###### 3. Create new branch from master in your cookbooks git repository. <br />
 ###### 4. Upload  your cookbooks to chef server using knife / berks <br />
 ###### 5. Create new Chef-dev environment using knife <br />
